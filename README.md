@@ -1,5 +1,5 @@
 # Audio-Manipulator
-My arduino uno project, completed for an Intro to Programming course.
+My arduino uno project
 
 
 Library used: Nanpy
